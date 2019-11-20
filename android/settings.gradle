@@ -1,0 +1,3 @@
+rootProject.name = 'cmmnd1'
+
+include ':app'

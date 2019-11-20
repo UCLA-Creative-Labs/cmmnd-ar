@@ -1,0 +1,6 @@
+framework module Pods_cmmnd1_tvOS {
+  umbrella header "Pods-cmmnd1-tvOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
